@@ -1,0 +1,19 @@
+---
+title: "Workshop"
+about:
+  template: jolla
+  image: ciencia_usm.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+El 3er Workshop: Investigación Reproducible con R es una iniciativa dirigida a la comunidad científica, académica y de postgrado diseñada para fortalecer las competencias en transparencia, replicabilidad y buenas prácticas en la investigación científica. 
+
+## Fecha y lugar de realización
+
+Se realizará desde el lunes 10 de marzo hasta el viernes 14 de marzo, en modalidad 100% online . El workshop consta de cinco módulos en cinco sesiones de dos horas cada una con un total de diez horas de formación.

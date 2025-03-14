@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mi Página Web",
+    "section": "",
+    "text": "Esta es una página web simple creada con Quarto para el 3er Workshop de Investigación Reproducible.\n\n\nQuarto te permite crear documentos y sitios web de forma rápida y sencilla.\n\n\n\n\nCódigo reproducible\nFácil de publicar en GitHub Pages\nCompatible con múltiples lenguajes"
+  },
+  {
+    "objectID": "index.html#sección-1-introducción",
+    "href": "index.html#sección-1-introducción",
+    "title": "Mi Página Web",
+    "section": "",
+    "text": "Quarto te permite crear documentos y sitios web de forma rápida y sencilla."
+  },
+  {
+    "objectID": "index.html#sección-2-características",
+    "href": "index.html#sección-2-características",
+    "title": "Mi Página Web",
+    "section": "",
+    "text": "Código reproducible\nFácil de publicar en GitHub Pages\nCompatible con múltiples lenguajes"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "El 3er Workshop: Investigación Reproducible con R es una iniciativa dirigida a la comunidad científica, académica y de postgrado diseñada para fortalecer las competencias en transparencia, replicabilidad y buenas prácticas en la investigación científica."
+  },
+  {
+    "objectID": "about.html#fecha-y-lugar-de-realización",
+    "href": "about.html#fecha-y-lugar-de-realización",
+    "title": "Workshop",
+    "section": "Fecha y lugar de realización",
+    "text": "Fecha y lugar de realización\nSe realizará desde el lunes 10 de marzo hasta el viernes 14 de marzo, en modalidad 100% online . El workshop consta de cinco módulos en cinco sesiones de dos horas cada una con un total de diez horas de formación."
+  }
+]
